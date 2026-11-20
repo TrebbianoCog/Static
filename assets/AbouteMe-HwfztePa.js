@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";var n=t(),r=e(function(){return(0,n.jsxs)(`div`,{className:`bg-black flex gap-7 items-center justify-center h-70`,children:[(0,n.jsx)(`div`,{className:` text-white text-6xl`,children:`trebbiano Cognac`}),(0,n.jsx)(`div`,{className:`text-white`,children:` vtkrbq ntrcn`})]})});export{r as default};
